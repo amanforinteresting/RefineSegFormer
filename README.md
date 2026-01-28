@@ -25,6 +25,9 @@ RefineSegFormer-B0	85.69	74.97
 RefineSegFormer-B2	90.53	82.70  
 <img width="489" height="303" alt="image" src="https://github.com/user-attachments/assets/637ca43c-101a-4381-aa1d-8ff1e5c50eb8" />  
 
+pth文件在百度网盘：通过网盘分享的文件：Best models of RefineSegFormer  
+链接: https://pan.baidu.com/s/1fqiGH6brSXlOLV-z9uGc0A?pwd=vthi 提取码: vthi   
+
 Reference  
 https://github.com/ggyyzm/pytorch_segmentation  
 https://github.com/bubbliiiing/segformer-pytorch  
